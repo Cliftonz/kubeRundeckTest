@@ -1,0 +1,11 @@
+FROM rundeck/rundeck:4.2.1 As base
+LABEL authors="zac.clifton@lge-ku.com"
+
+# Ref:
+# Change config files
+
+# Install custom plugins from latest release
+
+
+
+
